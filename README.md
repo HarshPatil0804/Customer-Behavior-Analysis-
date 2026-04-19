@@ -6,6 +6,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 The goal is to uncover insights into customer spending patterns, product preferences, and subscription behavior to support data-driven business decisions.
 
 ---Dataset---
+
 Rows: 3,900
 Columns: 18
 Data Includes:
@@ -20,7 +21,9 @@ PostgreSQL
 Power BI
 Jupyter Notebook
 SQL
+
 ---Project Workflow---
+
 1. Data Loading (Python)
 Loaded dataset using Pandas
 Checked structure using df.info() and summary stats using describe()
@@ -79,6 +82,7 @@ Young adults generated the highest revenue among age groups
 (Insights derived from SQL outputs shown across pages 3–6)
 
 ---Business Recommendations---
+
 Promote subscription benefits to increase recurring revenue
 Implement loyalty programs for repeat customers
 Optimize discount strategies to balance profit and sales
